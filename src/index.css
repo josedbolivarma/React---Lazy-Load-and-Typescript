@@ -63,5 +63,5 @@ nav li a {
 .header__nav {
   display: flex;
   flex-direction: row;
-  gap: 1rem;
+  gap: 1rem ;
 }
